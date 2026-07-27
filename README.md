@@ -1,5 +1,5 @@
 <div align="center">
-  ![AzureLab Dashboard Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=AzureLab%20Dashboard&fontSize=50&fontAlignY=40&animation=twinkling&desc=Monitoring%20%26%20Gestion%20Infrastructure%20Cloud%20Azure&descAlignY=60&descAlign=50)
+  ![AzureLab Dashboard Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=AzureLab%20Dashboard&fontSize=50&fontAlignY=40&animation=twinkling&desc=Monitoring%20%26%20Gestion%20Infrastructure%20Cloud%20Azure&descAlignY=60&descAlign=50&fontColor=ffffff)
 
   <p align="center">
     ![PHP](https://img.shields.io/badge/Language-PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
