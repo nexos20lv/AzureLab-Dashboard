@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2cbf,100:c77dff&amp;height=200&amp;section=header&amp;text=AzureLab%20Dashboard&amp;fontSize=50&amp;fontAlignY=40&amp;animation=twinkling&amp;desc=Monitoring%20%26%20Gestion%20Infrastructure%20Cloud%20Azure&amp;descAlignY=60&amp;descAlign=50&amp;fontColor=ffffff" alt="AzureLab Dashboard Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=AzureLab%20Dashboard&fontSize=50&fontAlignY=40&animation=twinkling&desc=Monitoring%20%26%20Gestion%20Infrastructure%20Cloud%20Azure&descAlignY=60&descAlign=50&fontColor=ffffff" alt="AzureLab Dashboard Banner" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Language-PHP_8.x-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Cloud-Microsoft_Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Language-PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Cloud-Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
     <img src="https://img.shields.io/badge/Frontend-Bootstrap_%2F_CSS3-563D7C?style=for-the-badge" alt="Frontend" />
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License" />
   </p>
